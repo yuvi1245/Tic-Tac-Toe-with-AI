@@ -9,5 +9,5 @@ Features
 - **Win Celebration:** There is a full-screen display when the game ends.
  
 How to Play 
-1. Open the [Live Demo Link]
+1. Open the [Live Demo Link]https://yuvi1245.github.io/Tic-Tac-Toe-with-AI/
 2.  2. Attempt to gain a draw against the AI.
