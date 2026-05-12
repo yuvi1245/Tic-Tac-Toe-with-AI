@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Pro: Web & Python Edition
+# Tic-Tac-Toe Pro
 
 A dual-platform Tic-Tac-Toe game featuring a modern Web interface and a robust Python command-line version. Both versions utilize the **Minimax Algorithm** to provide a challenging "Hard" mode that is mathematically impossible to beat.
 
