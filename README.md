@@ -20,6 +20,8 @@ A dual-platform Tic-Tac-Toe game featuring a modern Web interface and a robust P
 No installation required! 
 1. Open the project folder.
 2. Double-click `index.html` to open it in your favorite web browser.
+3. Use this link  "https://yuvi1245.github.io/Tic-Tac-Toe-with-AI/"
+   
 
 ### 2. Python Version
 Requires Python 3.x installed.
